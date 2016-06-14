@@ -1,2 +1,2 @@
 adding new file
-Adding more functionality
+Adding less functionality
